@@ -1,3 +1,3 @@
-const ServerURL="https://car-rentel-system-1.onrender.com"
+const ServerURL="http://localhost:3000"
 
 export default ServerURL
