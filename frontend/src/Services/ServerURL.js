@@ -1,3 +1,3 @@
-const ServerURL="http://localhost:3000"
+const ServerURL="https://car-rentel-system-7hrs.vercel.app"
 
 export default ServerURL
